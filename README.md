@@ -12,50 +12,12 @@
 
 [![Email](https://img.shields.io/badge/aditivpawar1796%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:aditivpawar1796@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Aditi__Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/aditi-pawar)
-[![Phone](https://img.shields.io/badge/+91_7840915364-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](tel:+917840915364)
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> About Me
-
-```javascript
-const aditi = {
-    location: "Mumbai, India 🇮🇳",
-    education: {
-        current: "B.Tech in Computer Engineering @ CRCE",
-        completed: "Diploma in Computer Engineering @ Bhausaheb Vartak Polytechnic"
-    },
-    code: ["JavaScript", "Dart"],
-    specialization: ["Frontend Development", "UI/UX Design", "Mobile Development"],
-    technologies: {
-        frontend: {
-            frameworks: ["React.js", "Next.js", "React Native"],
-            styling: ["CSS3", "Tailwind CSS", "Responsive Design"]
-        },
-        backend: {
-            runtime: ["Node.js"],
-            frameworks: ["Express.js"]
-        },
-        mobile: {
-            crossPlatform: ["React Native", "Flutter"]
-        },
-        databases: ["Firebase", "SQLite"],
-        design: ["Figma", "User Flows", "Wireframing", "Prototyping"],
-        tools: ["VS Code", "Git", "GitHub", "Postman"]
-    },
-    currentFocus: "Building user-centric applications with beautiful interfaces",
-    philosophy: "Design is not just what it looks like, design is how it works 🎨",
-    workStyle: "User-first thinking + Clean code + Pixel-perfect execution"
-};
-```
-
-<div align="center">
 
 ### 🎯 Achievements & Recognition
 
@@ -121,35 +83,6 @@ const aditi = {
 
 ---
 
-## 💼 Professional Experience
-
-<details open>
-<summary><b>🚀 UI/UX & Frontend Development Intern</b> - June 2024 – July 2024</summary>
-
-<br>
-
-**📍 Service-Based Company**
-
-### Key Contributions:
-
-```diff
-+ Led a team of 3 interns in developing responsive landing page
-+ Designed complete UI/UX workflow in Figma
-+ Implemented React-based frontend for tuition website
-+ Collaborated on Flutter attendance app development
-+ Enhanced client engagement through user-centric design
-+ Drove project delivery meeting tight deadlines
-```
-
-### Impact:
-- ✅ Successfully delivered client-focused landing page
-- ✅ Improved team collaboration and project workflow
-- ✅ Enhanced app usability through iterative testing
-- ✅ Received positive feedback from stakeholders
-
-</details>
-
----
 
 ## 🎯 Featured Projects
 
