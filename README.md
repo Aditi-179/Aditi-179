@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Your Name 👋
 
-<!--
-**Aditi-179/Aditi-179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | 🌱 Learning Web Development  
+🎯 Interested in building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on: Personal projects
+- 🌱 Learning: JavaScript, Git, and Web Development
+- 🤝 Open to: Collaboration and internships
+- ⚡ Fun fact: I enjoy solving coding challenges
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, C++
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+- 🔹 [Project Name](https://github.com/username/project) – Short description
+- 🔹 [Project Name](https://github.com/username/project)
+
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/yourname
+- Portfolio: https://yourwebsite.com
+- Email: your@email.com
