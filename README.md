@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Aditi Pawar👋
 
 💻 Aspiring Software Developer | 🌱 Learning Web Development  
 🎯 Interested in building real-world projects
