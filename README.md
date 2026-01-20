@@ -87,65 +87,6 @@
 
 ---
 
-## 🎨 Design Philosophy
-
-<div align="center">
-
-```typescript
-const designPrinciples = {
-    userFirst: "Every design decision starts with the user",
-    simplicity: "Complexity is the enemy of execution",
-    consistency: "Consistent experiences build trust",
-    accessibility: "Design should be inclusive for everyone",
-    iteration: "Great design is never finished, only shipped",
-    pixelPerfect: "Details matter in the digital world"
-};
-```
-
-</div>
-
----
-
-## 🎯 Current Goals & Learning Path
-
-<div align="left">
-
-```javascript
-const roadmap2025 = {
-    📚 learning: [
-        "Advanced React Patterns & Performance",
-        "TypeScript for Type-Safe Development",
-        "Advanced Animation (Framer Motion, GSAP)",
-        "Design Systems & Component Libraries",
-        "State Management (Redux, Zustand)",
-        "Testing (Jest, React Testing Library)"
-    ],
-    🏗️ building: [
-        "Personal Portfolio Website",
-        "Open Source UI Component Library",
-        "SaaS Landing Pages",
-        "Mobile Apps with Expo"
-    ],
-    🎯 2025_goals: [
-        "Contribute to 5+ Open Source Projects",
-        "Build & Launch 3 Production Apps",
-        "Master Advanced React & Next.js",
-        "Create Design System from Scratch",
-        "Mentor Junior Developers",
-        "Write Technical Blogs"
-    ],
-    💡 exploring: [
-        "Three.js for 3D Web Experiences",
-        "Micro-interactions & Animations",
-        "Progressive Web Apps (PWA)",
-        "Server Components in Next.js"
-    ]
-};
-```
-
-</div>
-
----
 
 ## 🤝 Let's Build Something Amazing Together!
 
@@ -210,8 +151,3 @@ Superpower: "Turning caffeine into code & pixels ✨"
 
 ### 💙 Thanks for stopping by!
 
-**"The best way to predict the future is to design it."** - Buckminster Fuller
-
-<sub>⭐ Star my repos if you find them helpful! | 🍴 Fork & contribute to make them better!</sub>
-
-</div>
