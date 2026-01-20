@@ -96,7 +96,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Freelance_Projects-6C63FF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Full_Time_Opportunities-FF6B6B?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Collaboration-4ECDC4?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Open_Source-95E1D3?style=for-the-badge&logoColor=white" />
 </p>
@@ -112,20 +111,14 @@
 <a href="https://github.com/GrowingDeveloper">
   <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="tel:+917840915364">
-  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
 <br><br>
 
 ### ✨ Fun Facts About Me
 
 ```yaml
 Coffee_Intake: "High ☕ (Fuels creativity)"
-Design_Tool: "Figma is my canvas 🎨"
 Favorite_Quote: "Good design is obvious. Great design is transparent."
 Coding_Time: "Late night warrior 🌙"
-Music_While_Coding: "Lofi beats & instrumental 🎧"
 Superpower: "Turning caffeine into code & pixels ✨"
 ```
 
