@@ -19,16 +19,6 @@
 </div>
 
 
-### 🎯 Achievements & Recognition
-
-| 🏆 Letter of Appreciation - PowerDot | 👥 Led 3-Person Development Team | 📱 Real-time IoT App Developer |
-|:---:|:---:|:---:|
-| Excellence in VoltX Development | Landing Page & Flutter App | Inverter Monitoring System |
-
-</div>
-
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Tech Arsenal
 
 <div align="center">
@@ -81,66 +71,10 @@
 
 </div>
 
----
-
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ VoltX - IoT Monitoring System
-**Sponsored Capstone Project (Europower)**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=internet-of-things&logoColor=white)
-
-**Features:**
-- 📊 Real-time inverter monitoring dashboard
-- 📈 Power consumption graphs & analytics
-- 🔔 Smart alerts & notifications
-- 📱 Cross-platform mobile application
-
-**Recognition:**
-🏆 Letter of Appreciation from PowerDot for excellence in design & implementation
-
-</td>
-<td width="50%">
-
-### 🥗 NutriGen App
-**Diet & Nutrition Tracker**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI/UX-6C63FF?style=flat-square&logo=adobe-xd&logoColor=white)
-
-**Features:**
-- 🎨 Complete UI/UX design in Figma
-- 👤 Intuitive user flows & navigation
-- ♿ Accessibility-focused design
-- 📱 Mobile-first approach
-- 💚 Engaging & modern interface
-
-**Focus:**
-User experience, visual hierarchy, and accessibility standards
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
+---  
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GrowingDeveloper&show_icons=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Aditi's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=GrowingDeveloper&theme=dark&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="Aditi's Streak Stats" />
-</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrowingDeveloper&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
