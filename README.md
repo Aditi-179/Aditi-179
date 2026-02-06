@@ -17,21 +17,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    width="700"
-    alt="Animated path"
-  />
-</div>
 
-<div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/.github/assets/pixel-girl.gif"
-    width="300"
-    alt="Pixel girl walking"
-  />
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Tech Arsenal
 
@@ -153,13 +139,9 @@ Superpower: "Turning caffeine into code & pixels ✨"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Create%20Magic%20Together%20✨&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+
 <div align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/handshake.gif"
-    width="300"
-    alt="Thanks for stopping by"
-  />
+
+### 💙 Thanks for stopping by!
+
 </div>
-
-
-
