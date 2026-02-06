@@ -17,13 +17,19 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="700"
+    alt="Animated path"
+  />
+</div>
 
 <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/216656970-9f0b6f4e-5b8f-4a66-9fa3-0b8f4c7c3a4c.gif"
-    width="450"
-    alt="Code girl walking and waving"
+    src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/.github/assets/pixel-girl.gif"
+    width="300"
+    alt="Pixel girl walking"
   />
 </div>
 
@@ -147,13 +153,12 @@ Superpower: "Turning caffeine into code & pixels ✨"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Create%20Magic%20Together%20✨&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
-<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
-
 <div align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/212897075-68b1f30a-ef7f-4e7a-9d47-4efed3a2adf4.gif"
-    width="350"
-    alt="Girl holding Thanks for stopping by sign"
+    src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/assets/thanks.svg"
+    width="400"
+    alt="Thanks for stopping by!"
   />
 </div>
+
 
