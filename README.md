@@ -17,6 +17,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
 
 <div align="center">
   <img 
@@ -146,6 +147,7 @@ Superpower: "Turning caffeine into code & pixels ✨"
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Create%20Magic%20Together%20✨&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
+<hr style="border: none; height: 1px; background: linear-gradient(to right, transparent, #6C63FF, transparent);" />
 
 <div align="center">
   <img 
