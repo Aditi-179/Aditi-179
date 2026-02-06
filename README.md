@@ -155,10 +155,11 @@ Superpower: "Turning caffeine into code & pixels ✨"
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Create%20Magic%20Together%20✨&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/main/assets/thanks.svg"
-    width="400"
-    alt="Thanks for stopping by!"
+    src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/handshake.gif"
+    width="300"
+    alt="Thanks for stopping by"
   />
 </div>
+
 
 
