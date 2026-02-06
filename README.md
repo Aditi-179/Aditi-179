@@ -18,6 +18,13 @@
 
 </div>
 
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216656970-9f0b6f4e-5b8f-4a66-9fa3-0b8f4c7c3a4c.gif"
+    width="450"
+    alt="Code girl walking and waving"
+  />
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Tech Arsenal
 
@@ -141,7 +148,10 @@ Superpower: "Turning caffeine into code & pixels ✨"
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Create%20Magic%20Together%20✨&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 
 <div align="center">
-
-### 💙 Thanks for stopping by!
-
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/212897075-68b1f30a-ef7f-4e7a-9d47-4efed3a2adf4.gif"
+    width="350"
+    alt="Girl holding Thanks for stopping by sign"
+  />
 </div>
+
