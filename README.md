@@ -77,7 +77,6 @@
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-179&layout=compact&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
   <img width="49%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=Aditi-179&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Contribution Stats" />
 </div>
 
@@ -130,9 +129,6 @@ Superpower: "Turning caffeine into code & pixels ✨"
 
 <br>
 
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/Aditi-179/count.svg)
 
 </div>
 
