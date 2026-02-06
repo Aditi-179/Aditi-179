@@ -75,11 +75,6 @@
 
 ## 📊 GitHub Stats
 
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=Aditi-179&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117" alt="Contribution Stats" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-179&custom_title=Contribution%20Activity&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
