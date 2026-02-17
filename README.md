@@ -11,7 +11,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/aditivpawar1796%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:aditivpawar1796@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Aditi__Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://linkedin.com/in/aditi-pawar)
+[![LinkedIn](https://img.shields.io/badge/Aditi__Pawar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aditi-pawar-a98929332)
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
@@ -99,7 +99,7 @@
 <a href="mailto:aditivpawar1796@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/aditi-pawar">
+<a href="https://www.linkedin.com/in/aditi-pawar-a98929332">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Aditi-179">
