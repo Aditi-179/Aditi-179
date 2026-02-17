@@ -118,12 +118,6 @@ Superpower: "Turning caffeine into code & pixels ✨"
 
 <br>
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br>
-
 
 </div>
 
