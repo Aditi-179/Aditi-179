@@ -1,66 +1,86 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4ECDC4&height=200&section=header&text=Aditi%20V%20Pawar&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
-
-# Hi 👋 I'm Aditi
-
-💻 Frontend Developer
-🎨 UI/UX Designer
-📱 Mobile App Developer
-
-<br>
-
-<img src="https://raw.githubusercontent.com/Aditi-179/Aditi-179/main/coding-girl.gif" width="420"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Aditi%20V%20Pawar&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Frontend%20Developer%20|%20UI%20UX%20Designer&descAlignY=65"/>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+<div align="center">
 
-```yaml
-Name: Aditi V Pawar
-Role: Frontend Developer
-Focus: UI/UX + Web Applications
-Learning: Advanced Frontend & Mobile Development
-Location: India
-```
+# 👾 Hey there, I'm Aditi V Pawar
 
-✨ I love building **beautiful user interfaces and seamless digital experiences.**
+### 🎮 Pixel Developer | Frontend Engineer | UI/UX Designer
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-4e4b0f2b-2c32-4c8a-94e6-0e3c8b6b6f70.gif" width="500"/>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+## 🐱 Coding Mode
 
-### 💻 Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind"/>
-</p>
+<img src="https://raw.githubusercontent.com/Avik-Jain/Avik-Jain/master/assets/animated.gif" width="420"/>
 
-### 📱 Mobile
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,react"/>
-</p>
+---
 
-### ⚙️ Backend
+# 🎮 About Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
-</p>
+```yaml
+name: Aditi V Pawar
+role: Frontend Developer
+speciality: UI / UX Design
+focus: Web & Mobile Development
+passion: Creating smooth digital experiences
+coding_style: Pixel Perfect
+````
 
-### 🎨 Design
+✨ I enjoy building **beautiful user interfaces**
+✨ Love combining **design + code**
+✨ Exploring **modern web technologies**
 
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
+---
 
-### 🛠 Tools
+# 🕹 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman"/>
-</p>
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge\&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-0f172a?style=for-the-badge\&logo=nextdotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge\&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge\&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge\&logo=tailwindcss)
+
+---
+
+## 🎨 Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge\&logo=figma)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-0f172a?style=for-the-badge)
+![Wireframing](https://img.shields.io/badge/Wireframing-0f172a?style=for-the-badge)
+
+---
+
+## ⚙ Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-0f172a?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/ExpressJS-0f172a?style=for-the-badge\&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge\&logo=firebase)
+![SQLite](https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge\&logo=sqlite)
+
+---
+
+## 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge\&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0f172a?style=for-the-badge\&logo=dart)
+![ReactNative](https://img.shields.io/badge/ReactNative-0f172a?style=for-the-badge\&logo=react)
 
 ---
 
@@ -68,9 +88,11 @@ Location: India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aditi-179&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aditi-179&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditi-179&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditi-179&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -78,19 +100,15 @@ Location: India
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-179&bg_color=0d1117&color=6C63FF&line=4ECDC4&point=ffffff&area=true&hide_border=true"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditi-179&theme=tokyo-night&hide_border=true&area=true"/>
 
 ---
 
-# 🐍 Contribution Snake
+# 🎮 Pixel Snake Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aditi-179/Aditi-179/output/github-contribution-grid-snake.svg"/>
+![snake gif](https://github.com/Aditi-179/Aditi-179/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -100,26 +118,32 @@ Location: India
 
 <div align="center">
 
-<a href="mailto:aditivpawar1796@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-Aditi%20V%20Pawar-red?style=for-the-badge\&logo=gmail)](mailto:aditivpawar1796@gmail.com)
 
-<a href="https://www.linkedin.com/in/aditi-pawar-a98929332">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditi%20V%20Pawar-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/aditi-pawar-a98929332)
 
-<a href="https://github.com/Aditi-179">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Aditi%20V%20Pawar-black?style=for-the-badge\&logo=github)](https://github.com/Aditi-179)
 
 </div>
 
 ---
 
+# ☕ Fun Facts
+
+```yaml
+coffee_intake: high
+design_love: infinite
+coding_time: night_owl_mode
+superpower: turning coffee into code
+```
+
+---
+
 <div align="center">
 
-⭐ From [Aditi-179](https://github.com/Aditi-179)
+### 👾 Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer&text=Keep%20Building%20Cool%20Things&fontSize=25&fontColor=ffffff"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4ECDC4&height=120&section=footer"/>
+```
