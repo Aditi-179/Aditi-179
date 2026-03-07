@@ -13,9 +13,9 @@ Hi there, I'm <span style="color:#ff6ec7">Aditi V Pawar</span>
 <img src="https://komarev.com/ghpvc/?username=Aditi-179&label=PROFILE+VIEWS&color=6A5ACD&style=flat-square"/>
 </p>
 
-<img align="right" src="mygif.gif" width="300"/>
 
 ---
+<img align="right" src="mygif.gif" width="300"/>
 
 # 👾 About Me
 
