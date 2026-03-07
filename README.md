@@ -13,7 +13,7 @@ Hi there, I'm <span style="color:#ff6ec7">Aditi V Pawar</span>
 <img src="https://komarev.com/ghpvc/?username=Aditi-179&label=PROFILE+VIEWS&color=6A5ACD&style=flat-square"/>
 </p>
 
-<img align="right" src="https://github.com/Aditi-179/Aditi-179/blob/8d16169c42e35ed8782381910801362b2a3132e0/mygif.gif" width="300"/>
+<img align="right" src="mygif.gif" width="300"/>
 
 ---
 
