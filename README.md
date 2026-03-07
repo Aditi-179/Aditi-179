@@ -69,10 +69,6 @@ Hi there, I'm <span style="color:#ff6ec7">Aditi V Pawar</span>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,sqlite&theme=dark" />
 
-### 🎨 Design Tools
-
-<img src="https://skillicons.dev/icons?i=figma,androidstudio,replit&theme=dark" />
-
 </div>
 
 ---
