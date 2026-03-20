@@ -5,7 +5,7 @@ Hi there, I'm <span style="color:#ff6ec7">Aditi V Pawar</span>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Frontend+Pixel+Engineer;Building+Creative+Tech+Projects;Exploring+Agentic+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=UI%2FUX+Designer;Frontend+Engineer;Building+Creative+Tech+Projects;Exploring+Agentic+AI" />
 
 </p>
 
